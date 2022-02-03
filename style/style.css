@@ -1,0 +1,15 @@
+body{ background-color: silver;
+font-size: 1.3rem;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+section{ background-color: darkblue;
+
+}
+
+h1{color:cyan;
+font-size: 2rem;
+position: relative;
+text-align:center ;
+margin:20%;
+padding:18%;
+border: 3rem;}
